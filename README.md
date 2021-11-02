@@ -5,7 +5,8 @@ Create folder names 'capstone' in your desktop directory
 <br />
 Open the capstone folder in your file explorer
 <br />
-Click where the cursor is in the picture below
+Click where the red blob is in the picture below
+![cursor](cmd.PNG)
 <br />
 type 'cmd' to open the command prompt in this directory
 <br />
@@ -47,4 +48,6 @@ python manage.py runserver
 ```
 
 Navigate to [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+<br />
 If everything worked correctly, you should see this screen
+![Home](home.PNG)
