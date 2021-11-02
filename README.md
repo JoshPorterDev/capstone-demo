@@ -37,11 +37,6 @@ Install requirements
 pip install -r requirements.txt
 ```
 
-Make initial database migrations
-```
-python manage.py migrate
-```
-
 Start local Dev server
 ```
 python manage.py runserver
